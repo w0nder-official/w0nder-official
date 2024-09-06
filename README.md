@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![w0nder blog latest post](https://w0nder.land/api/og/t-001?url=https%3A%2F%2Fw0nder.land%2Fposts%2Flatest)](https://w0nder.land/posts/latest)
+
 <!--
 **w0nder-official/w0nder-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
